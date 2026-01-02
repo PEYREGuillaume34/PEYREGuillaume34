@@ -75,13 +75,13 @@ Application de collecte de données pour le nettoyage des océans
 
 ## 📊 Statistiques GitHub
 
+<div align="center">
   
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api? username=PEYREGuillaume34&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+![Statistiques GitHub](https://github-readme-stats.vercel. app/api?username=PEYREGuillaume34&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=PEYREGuillaume34&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
 
-
-
+</div>
 ---
 
 ## 🎓 Formation
