@@ -73,17 +73,6 @@ Application de collecte de données pour le nettoyage des océans
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-![Statistiques GitHub](https://github-readme-stats.vercel. app/api?username=PEYREGuillaume34&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=PEYREGuillaume34&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
-
-</div>
----
-
 ## 🎓 Formation
 
 **Développeur Web & Mobile** chez **Ada Tech School**  
@@ -103,7 +92,7 @@ Formation intensive en développement fullstack avec une approche par projet
 
 ## 📫 Me contacter
 
-[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)](https://www.linkedin.com/in/peyreguillaume34/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)(https://www.linkedin.com/in/peyreguillaume34/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](🚧 En construction)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peyreguillaume@gmail.com)
 
