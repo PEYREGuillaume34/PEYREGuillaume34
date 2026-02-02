@@ -10,11 +10,7 @@ Curieux, autonome et habitué à travailler avec des contraintes clients, j'ai l
 
 ## 🎯 Actuellement en recherche
 
-### 🔍 **Stage immédiat**
-- **Dates** : du 9 février au 3 avril 2026
-- **Objectif** : Mettre en pratique mes compétences en développement web
-
-### 🎓 **Alternance - 12 mois**
+### 🎓 **Alternance - 12 à 24 mois**
 - **Début** : avril 2026
 - **Objectif** : Apprendre, consolider mes compétences et contribuer activement à des projets concrets
 
