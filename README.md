@@ -10,8 +10,7 @@ Curieux, autonome et habitué à travailler avec des contraintes clients, j'ai l
 
 ## 🎯 Actuellement en recherche
 
-### 🎓 **Alternance - 12 à 24 mois**
-- **Début** : avril 2026
+### 🎓 **Alternance - 24 mois**
 - **Objectif** : Apprendre, consolider mes compétences et contribuer activement à des projets concrets
 
 ---
@@ -32,8 +31,8 @@ Curieux, autonome et habitué à travailler avec des contraintes clients, j'ai l
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
-**Outils** : Illustrator, Photoshop  
-**IA** : Midjourney, Adobe Firefly
+**Outils** : Figma, Illustrator, Photoshop  
+**IA** : Copilot, Midjourney, Adobe Firefly
 
 ---
 
@@ -89,7 +88,7 @@ Formation intensive en développement fullstack avec une approche par projet
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peyreguillaume34)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-flame-sigma-47.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-peyreguillaume34.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peyreguillaume@gmail.com)
 
 💼 **Ouvert aux opportunités de stage et d'alternance**
