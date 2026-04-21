@@ -1,10 +1,35 @@
 # 👋 Bonjour, moi c'est Guillaume PEYRE
 
-## 🎨 → 💻 De graphiste à développeur fullstack
+### Développeur Full-Stack Junior | Ex-Graphiste (20 ans d'xp) 🎨 ➔ 💻
 
-Après près de **20 ans d'expérience dans le graphisme**, j'ai choisi de me réorienter vers le **développement fullstack** pour créer des interfaces **utiles, claires et accessibles**. 
+Après 20 ans dans le graphisme, j'ai opéré une transition vers le développement web, consolidée par un titre RNCP Niveau 6 (Bac+3/4) à l'Ada Tech School. Mon profil hybride combine une forte sensibilité UI/UX et une expertise technique moderne (React/Node/DevOps).
 
-Curieux, autonome et habitué à travailler avec des contraintes clients, j'ai la capacité d'**analyser un besoin**, le **structurer** et le **traduire en solutions techniques pertinentes**. 
+---
+
+## 💼 Expérience professionnelle
+
+### 🚀 Développeur Fullstack & Scrum Master - QUERA FABLAB (2026)
+**Paris 18e** • Création d'un intranet collaboratif
+
+**🎯 Agilité & Gestion de projet**
+• Nomination Scrum Master : définition de 3 personas  
+• Rédaction des User Stories et gestion du backlog sur Trello
+
+**💻 Conception & Développement**
+• Maquettage sur Figma  
+• Intégration WordPress  
+• Développement avec React / Express / MySQL
+
+**✅ Qualité & DevOps**
+• Mise en place de tests unitaires et E2E  
+• Création et déploiement d'images Docker sur DockerHub
+
+### 🎨 Graphiste Print / Sérigraphie - VISIOCOM (2006-2025)
+**Antony 92** • 20 ans d'expérience
+
+• Conception de visuels pour grandes enseignes (Intermarché, E.Leclerc, Carrefour, Leroy Merlin, Ikea, Ixina, Atol, Krys, Groupama, Gedimat...)  
+• Affichage sur supports variés : Total covering véhicules, stands, panneaux 2m² et 4x3m
+
 
 ---
 
@@ -20,12 +45,15 @@ Curieux, autonome et habitué à travailler avec des contraintes clients, j'ai l
 ### 💻 Développement
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-**Frontend** :  React, Next.js, Tailwind CSS, Vite  
-**Backend** : Node.js, Express  
-**Base de données** : PostgreSQL, Drizzle ORM  
+Frontend : React, Next.js, Tailwind CSS, Vite  
+Backend : Node.js, Express  
+Base de données : PostgreSQL, Drizzle ORM
 
 ### 🎨 Design & Création
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
@@ -38,34 +66,30 @@ Curieux, autonome et habitué à travailler avec des contraintes clients, j'ai l
 
 ## 🚀 Projets en vedette
 
-### 🌌 [Adaverse](https://github.com/PEYREGuillaume34/Adaverse)
-Plateforme collaborative de valorisation des projets étudiants d'Ada Tech School
-- **Stack** : Next.js 16, TypeScript, Drizzle ORM, PostgreSQL, Tailwind CSS
-- **Fonctionnalités** :  Système de modération admin, filtrage par promotion, Server Components
+### 🎭 [Pote2Live](https://github.com/PEYREGuillaume34/Potes2Live)
+Plateforme collaborative pour organiser des sorties concerts entre amis
 
-<!-- Pour ajouter un GIF démo, utilisez cette syntaxe :
-![Demo Adaverse](https://votre-lien-vers-gif. gif)
--->
+• Stack : Next.js 15, TypeScript, Drizzle ORM, PostgreSQL, Better Auth, Tailwind CSS
+• Fonctionnalités : Système d'authentification, gestion de groupes, messagerie, CRUD concerts
+• Tests : Tests unitaires, CI (Vitest) et E2E (Playwright)
+
+### 🌌 [adaverse02](https://github.com/PEYREGuillaume34/adaverse02)
+Plateforme collaborative de valorisation des projets étudiants d'Ada Tech School
+
+• Stack : Next.js 16, TypeScript, Drizzle ORM, PostgreSQL, Tailwind CSS
+• Fonctionnalités : Système de modération admin, filtrage par promotion, Server Components
 
 ### 📊 [Dataviz](https://github.com/PEYREGuillaume34/Dataviz)
 Application de recherche de cinémas à proximité avec visualisation de données
-- **Stack** : JavaScript vanilla, API Geopf
-- **Fonctionnalités** : Autocomplétion d'adresse, recherche par rayon, affichage dynamique
 
-<!-- Pour ajouter un GIF démo : 
-![Demo Dataviz](https://votre-lien-vers-gif.gif)
--->
+• Stack : JavaScript vanilla, API Geopf
+• Fonctionnalités : Autocomplétion d'adresse, recherche par rayon, affichage dynamique
 
 ### 🎮 [Quiz Interactif](https://github.com/PEYREGuillaume34/Quiz)
 Jeu de quiz avec animations et système de score
-- **Stack** : JavaScript vanilla, CSS animations
-- **Fonctionnalités** : Timer, effets sonores, animations personnalisées
 
-### 🌊 [Adaction](https://github.com/PEYREGuillaume34/Adaction)
-Application de collecte de données pour le nettoyage des océans
-- **Stack** :  HTML, CSS, JavaScript
-- **Fonctionnalités** :  Interface intuitive pour le suivi des déchets collectés
-
+• Stack : JavaScript vanilla, CSS animations
+• Fonctionnalités : Timer, effets sonores, animations personnalisées
 ---
 
 ## 🎓 Formation
