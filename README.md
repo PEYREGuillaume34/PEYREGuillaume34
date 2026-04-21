@@ -68,7 +68,7 @@ Base de données : PostgreSQL, Drizzle ORM
 
 ## 🚀 Projets en vedette
 
-### 🎭 [Pote2Live](https://github.com/PEYREGuillaume34/Potes2Live)
+### 🎶 [Pote2Live](https://github.com/PEYREGuillaume34/Potes2Live)
 Plateforme collaborative pour organiser des sorties concerts entre amis
 
 • Stack : Next.js 15, TypeScript, Drizzle ORM, PostgreSQL, Better Auth, Tailwind CSS
