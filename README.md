@@ -90,6 +90,7 @@ Jeu de quiz avec animations et système de score
 
 • Stack : JavaScript vanilla, CSS animations
 • Fonctionnalités : Timer, effets sonores, animations personnalisées
+
 ---
 
 ## 🎓 Formation
