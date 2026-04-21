@@ -9,7 +9,7 @@ Après 20 ans dans le graphisme, j'ai opéré une transition vers le développem
 ## 💼 Expérience professionnelle
 
 ### 🚀 Développeur Fullstack & Scrum Master - QUERA FABLAB (2026)
-**Paris 18e** • Création d'un intranet collaboratif
+**Paris 18e** • Stage de 2 mois - Création d'un intranet collaboratif
 
 **🎯 Agilité & Gestion de projet**
 • Nomination Scrum Master : définition de 3 personas  
